@@ -1,4 +1,4 @@
-# Keyboard Remote Control
+# Mouse Remote Control
 
 ## Using Websockets in nodejs
 
